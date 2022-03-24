@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Archie"
 theme="archie"
 ignoreErrors = ["error-missing-instagram-accesstoken"]
+ignoreErrors = ["error-remote-getjson"]
+
 copyright = "© Athul"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
