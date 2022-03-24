@@ -1,12 +1,9 @@
-+++
-author = "Hugo Authors"
-title = "Emoji Support"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
-tags = [
-    "emoji",
-]
-+++
+---
+title: "Primer: When You Have Too Much to Do"
+date: 2020-04-01T02:01:58+05:30
+description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
+tags: [Primer, todo]
+---
 
 Emoji can be enabled in a Hugo project in a number of ways.
 

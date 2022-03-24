@@ -1,13 +1,8 @@
-+++
-author = "Hugo Authors"
-title = "Placeholder Text"
-date = "2019-03-09"
-description = "Lorem Ipsum Dolor Si Amet"
-tags = [
-    "markdown",
-    "text",
-]
-+++
+---
+title: "Getting Started with Traveling Ultralight"
+date: 2020-03-18T12:13:35+05:30
+description: "Start by getting a small backpack (less than 20 liters) and then just travel with what fits in that."
+---
 
 Lorem est tota propiore conpellat pectoribus de
 pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
