@@ -7,7 +7,7 @@ copyright = "© Athul"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-ignoreErrors = ["error-missing-instagram-accesstoken"]
+ignoreErrors = ["error-missing-instagram-accesstoken","error-remote-getjson"]
 paginate=3 # articles per page
 
 [params]
