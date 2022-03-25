@@ -1,4 +1,4 @@
-baseURL = "https://athul.github.io/archie/"
+baseURL = "https://trial-phi.vercel.app/"
 languageCode = "en-us"
 title = "Archie"
 theme="archie"
