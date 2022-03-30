@@ -2,7 +2,7 @@ baseURL = "https://trial-phi.vercel.app/"
 languageCode = "en-us"
 title = "一个洞。"
 theme="archie"
-frontmatter:
+frontmatter=
   lastmod: [":fileModTime", "lastmod"]
 
 
@@ -58,3 +58,7 @@ url = "/tags"
 weight = 4
 
 
+[[menu.main]]
+name = "Friends"
+url = "/friends"
+weight = 5
