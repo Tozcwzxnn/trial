@@ -13,7 +13,7 @@ html {
   line-height: 1.6em;
 }
 body{
-  display: block;
+  display: #004cca;
   margin: 8px;
 }
 * {
@@ -26,8 +26,8 @@ body{
 }
 
 p {
-  font-family: 'Fira Sans', sans-serif;
-  line-height: 1.5;
+  font-family: "Noto Serif SC", sans-serif;
+  line-height: 1.8;
 }
 
 hr {
