@@ -2,6 +2,9 @@ baseURL = "https://trial-phi.vercel.app/"
 languageCode = "en-us"
 title = "一个洞。"
 theme="archie"
+frontmatter:
+  lastmod: [":fileModTime", "lastmod"]
+
 
 # Code Highlight
 pygmentsstyle = "monokai"

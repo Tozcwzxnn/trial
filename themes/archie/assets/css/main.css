@@ -7,7 +7,7 @@
 --darkMaincolor: #50fa7b;
 }
 html {
-  color: #232333;
+  color: #fff4e9;
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
   line-height: 1.6em;
@@ -38,7 +38,7 @@ hr {
 
 blockquote {
   border-left: 3px solid var(--bordercl);
-  color: #737373;
+  color: #f4af8a;
   margin: 0;
   padding-left: 1em;
 }
@@ -67,7 +67,7 @@ ul > li::before {
 
 /* Images */
 img {
-  border: 3px solid #ececec;
+  border: 3px solid #e6b8af;
   max-width: 100%;
 }
 
