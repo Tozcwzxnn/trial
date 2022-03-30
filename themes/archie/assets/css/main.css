@@ -1,9 +1,9 @@
 /* Markdown */
 :root{
---maincolor: red;
+--maincolor: #004cca;
 --bordercl:rebeccapurple;
 --callouctcolor:dodgerblue;
---hovercolor:navy;
+--hovercolor:#fff2cc;
 --darkMaincolor: #50fa7b;
 }
 html {
@@ -21,8 +21,8 @@ body{
 }
 
 ::selection {
-  background: var(--maincolor);
-  color: #fff;
+  background: #fff2cc;
+  color: #004cca;
 }
 
 p {
