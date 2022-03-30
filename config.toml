@@ -58,7 +58,3 @@ url = "/tags"
 weight = 4
 
 
-[[menu.main]]
-name = "Friends"
-url = "/friends"
-weight = 5
